@@ -2,20 +2,6 @@
 
 Boilerplate for a React Native iOS and Android app using Redux
 
-
-### Tutorial
-<ul>
-  <li><a href="#step1">Step 1: Create React Native Project</a></li>
-  <li><a href="#step2">Step 2: Install Dependencies</a></li>
-  <li><a href="#step3">Step 3: Create Folder Structure</a></li>
-  <li><a href="#step4">Step 4: Create Your First Action</a></li>
-  <li><a href="#step5">Step 5: Create Your First Reducer</a></li>
-  <li><a href="#step6">Step 6: Create Your Component</a></li>
-  <li><a href="#step7">Step 7: Create Your Store</a></li>
-  <li><a href="#step8">Step 8: Link It All Together</a></li>
-  <li><a href="#step9">Step 9: Update Your Main Files</a></li>
-</ul>
-
 <a name="step1"></a>
 ### Step 1: Create React Native Project
 
